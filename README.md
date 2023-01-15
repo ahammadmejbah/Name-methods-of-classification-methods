@@ -1,15 +1,15 @@
 # <p align="center"> Name-methods-of-classification-methods</p>
 
-a. Statistical Procedure Based Approach
-b  Machine Learning Based Approach
-c. Neural Network
-d. Classification Algorithms
-e. ID3 Algorithm
-f. C4.5 Algorithm
-g. K Nearest Neighbors Algorithm
-H. Naïve Bayes Algorithm
-i. SVM Algorithm
-J. ANN Algorithm
-K. 48 Decision Trees
-l. Support Vector Machines
-M. SenseClusters (an adaptation of the K-means clustering algorithm)
+1. Statistical Procedure Based Approach
+2. Machine Learning Based Approach
+3. Neural Network
+4. Classification Algorithms
+5. ID3 Algorithm
+6. C4.5 Algorithm
+7. K Nearest Neighbors Algorithm
+8. Naïve Bayes Algorithm
+9. SVM Algorithm
+10. ANN Algorithm
+11. 48 Decision Trees
+12. Support Vector Machines
+13. SenseClusters (an adaptation of the K-means clustering algorithm)
