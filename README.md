@@ -1,6 +1,7 @@
 # <p align="center"> Name-methods-of-classification-methods</p>
+
 a. Statistical Procedure Based Approach
-b Machine Learning Based Approach
+b  Machine Learning Based Approach
 c. Neural Network
 d. Classification Algorithms
 e. ID3 Algorithm
