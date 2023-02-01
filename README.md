@@ -11,5 +11,5 @@
 9. SVM Algorithm
 10. ANN Algorithm
 11. 48 Decision Trees
-12. Support Vector Machines
+12. Support Vector Machine
 13. SenseClusters (an adaptation of the K-means clustering algorithm)
