@@ -1,6 +1,6 @@
 # <p align="center"> Name-methods-of-classification-methods</p>
 
-1. Statistical Procedure Based Approach
+1. Statistical Procedure Based Approachs
 2. Machine Learning Based Approach
 3. Neural Network
 4. Classification Algorithms
